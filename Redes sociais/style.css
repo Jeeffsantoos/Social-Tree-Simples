@@ -3,28 +3,11 @@
     color: #BB99DD;
     font-size: 16px;
     font-family: 'Poppins', sans-serif;
-    height: 100%;
-    width: 100%;
-    margin: auto;
-}
-
-html {
-    height: 100%;
-}
-
-body {
-    text-align: left;
-    margin: 0 auto;
-    padding: 0;
-    height: 100%;
-    width: 100%
 }
 
 p {
-    text-align: center;
-    top: 42%;
-    position: absolute;
-    right: 45.2%;
+    margin: 0;
+    margin-left: 610px;
 }
 
 a:link {
@@ -47,10 +30,8 @@ a:hover {
     border-color: #BB99DD;
     width: 200px;
     height: 200px;
-    margin: 0px;
-    top: 10%;
-    right: 42.3%;
-    position: absolute;
+    margin-top: 70px;
+    margin-left: 575px;
 }
 
 .container img {
@@ -63,9 +44,8 @@ a:hover {
 }
 
 .icones ul {
-    position: absolute;
-    left: 568px;
-    top: 550px;
+    margin-left: 570px;
+    margin-top: 238px;
 }
 
 .button {
