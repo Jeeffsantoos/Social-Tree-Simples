@@ -1,0 +1,110 @@
+:root {
+    background-color: #FAF7FD;
+    color: #BB99DD;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    text-align: left;
+    margin: 0 auto;
+    padding: 0;
+    height: 100%;
+    width: 100%
+}
+
+p {
+    text-align: center;
+    top: 42%;
+    position: absolute;
+    right: 45.2%;
+}
+
+a:link {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #6e0bd1;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #BB99DD;
+    text-decoration: none;
+}
+
+.container img {
+    border-radius: 80%;
+    border-color: #BB99DD;
+    width: 200px;
+    height: 200px;
+    margin: 0px;
+    top: 10%;
+    right: 42.3%;
+    position: absolute;
+}
+
+.container img {
+    border-style: solid;
+}
+
+.icones ul li {
+    display: inline-block;
+    width: 25px;
+}
+
+.icones ul {
+    position: absolute;
+    left: 568px;
+    top: 550px;
+}
+
+.button {
+    background-color: #FAF7FD;
+    border: #BB99DD;
+    border-style: solid;
+    color: #BB99DD;
+    padding: 15px 64px;
+    text-align: center;
+    display: list-item;
+    font-size: 16px;
+    border-radius: 8px;
+    margin: 12px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #BB99DD;
+    color: #6e0bd1;
+}
+
+.button1 {
+    padding: 15px 80px;
+    position: absolute;
+    left: 545px;
+    top: 320px;
+}
+
+.button2 {
+    padding: 15px 80px;
+    position: absolute;
+    left: 545px;
+    top: 460px;
+}
+
+.button3 {
+    padding: 15px 100px;
+    position: absolute;
+    left: 545px;
+    top: 390px;
+}
